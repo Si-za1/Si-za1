@@ -1,9 +1,14 @@
+<h1 align="center">Greetings <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> from Siza </h1>
+
 <p align ="center">
-<a href="#"><img width="100%" height="auto" src="https://imgur.com/9xvMS2R" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/e7dn2ol.png" height="80px"/></a> 
 </p>
 
-<h1 align="center">Greetings <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> from Siza </h1>
-<h3 align="center">  Designing, Exploring, Reading, indulging myself in Frontend Development, and Writing is what makes me feel in seventh heaven </h3>
+
+
+<h3 align="center"> A <em> passionate soul </em> when it comes to <i> Web Development [FrontEnd], Writing and Researching </i> </h3>
+
+
 
 
 ## 🙋‍♂️ About Me
@@ -16,9 +21,8 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/Si-za1)**
 
-- 📫 My Blog  **https://starter-startler.medium.com/**
-
 - ⚡ Fun fact **My favorite food is a Circle made of Triangles served in a Square Box!**
+
 
 ## 🚀 Languages that I love working and working with :
 
@@ -26,19 +30,21 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/clouds/100/000000/react.png"/> </a>
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://wordpress.com" target="_blank"> <img src="https://icons8.com/icon/FAF3Dd8bIU4i/wordpress"> </a>
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/clouds/100/000000/react.png" width="60" height="60"/> </a>
+    <a href="https://getbootstrap.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
+    <a href="https://wordpress.com/" target="_blank"> <img src="https://img.icons8.com/dusk/100/000000/wordpress.png"  width="60" height="60"/> </a>
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>  
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 </p>
 
+
+
  ## 🚀 Designing Tools that I love working and learning with :
 
 <p align="center"> 
-    <a href="https://figma.com" target="_blank"> <img src="https://icons8.com/icon/3nPo8aR8zRCY/figma"> </a>
-    <a href="https://figma.com" target="_blank"> <img src="https://icons8.com/icon/3i23n5K603C8/canva-app"> </a>
+    <a href="https://www.figma.com/" target="_blank"> <img src="https://img.icons8.com/bubbles/100/000000/figma.png"/></a>
+    <a href="https://www.canva.com/" target="_blank"> <img src="https://img.icons8.com/clouds/100/000000/canva.png"/> </a>
     <a href="https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiG1d-_xYXzAhWDHSsKHbJFCmIYABAAGgJzZg&ae=2&ohost=www.google.com&cid=CAESQeD2q355qrXXK3Hsly9sjR_NDR3hDeRN3YVfwABCd4DbA0619Vn0zd5n4Xra-UyxXnum9pa_sJiXVbBj9SecWO2F&sig=AOD64_2A2KgUtgFW1ETS1U5PrWVm7PNK-A&q&adurl&ved=2ahUKEwiC-NW_xYXzAhU_wTgGHbltDc8Q0Qx6BAgCEAE" target="_blank"> <img src="https://img.icons8.com/clouds/100/000000/adobe-indesign.png"/> </a>
 
 </p>
@@ -71,8 +77,8 @@
 ## Places where you can find me! :
 <p align="center">
 
-<a href = "https://www.linkedin.com/in/siza-adhikari-2a9574199/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://starter-startler.medium.com/"><img src="https://icons8.com/icon/m8ClhVaNuUH7/medium-new"/></a>
+<a href = "https://www.linkedin.com/in/siza-adhikari-2a9574199/"> <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://starter-startler.medium.com/"> <img src="https://img.icons8.com/bubbles/50/26e07f/medium-new.png"/> </a>
 
 
 </p>
