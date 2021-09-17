@@ -1,6 +1,8 @@
+<p align ="center">
 <a href="#"><img width="100%" height="auto" src="https://imgur.com/9xvMS2R" height="175px"/></a>
+</p>
 
-<h1 align="center">Greetings <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, from Siza </h1>
+<h1 align="center">Greetings <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> from Siza </h1>
 <h3 align="center">  Designing, Exploring, Reading, indulging myself in Frontend Development, and Writing is what makes me feel in seventh heaven </h3>
 
 
