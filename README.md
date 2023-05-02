@@ -13,11 +13,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Research on and about BIACS**
+- 🔭 I’m currently working as an intern at **Leapfrog Technology**
 
-- 🌱 I’m currently learning **JS Frameworks**
-
-- 👯 I’m looking to collaborate on **Research based Projects**
+- 🌱 I’m currently learning **basic frontend and design skills**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/Si-za1)**
 
@@ -37,7 +35,6 @@
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 </p>
-
 
 
  ## 🚀 Designing Tools that I love working and learning with :
