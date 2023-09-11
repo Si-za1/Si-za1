@@ -13,9 +13,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working as an intern at **Leapfrog Technology**
+- 🔭 I’m currently working as a Software Engineer, Data at **Leapfrog Technology**
 
-- 🌱 I’m currently learning **basic frontend and design skills**
+- 🌱 I’m currently learning **Data Engineering and its requisites**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/Si-za1)**
 
