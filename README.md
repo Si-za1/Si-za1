@@ -21,7 +21,7 @@
 - [Python](https://www.python.org/)
 - [FastAPI](https://fastapi.tiangolo.com/)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [Node.js](https://nodejs.org)
+
 
 ### AI and Machine Learning
 
@@ -33,10 +33,18 @@
 
 - [Notion](https://www.notion.so/)
 - [Canva](https://www.canva.com/)
+- [Docker](https://www.docker.com/)
+- [AWS](https://aws.amazon.com/)
+- [Google Cloud Platform](https://cloud.google.com/)
+- [Vector Database](https://www.pinecone.io/)
+- [SQL](https://en.wikipedia.org/wiki/SQL)
+- [NoSQL](https://en.wikipedia.org/wiki/NoSQL)
+- [Git](https://git-scm.com/)
+- [Jupyter](https://jupyter.org/)
+- [Google colab](https://colab.google/)
+- [VS Code](https://code.visualstudio.com/)
 
 ## 📊 My GitHub Stats
-
-<br/>
 
 <br/>
 <a href="https://github.com/Si-za1/github-readme-stats"><img alt="Siza's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Si-za1&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
