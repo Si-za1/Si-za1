@@ -1,14 +1,12 @@
-Certainly! Here's an updated version of your GitHub profile README, tailored to your expertise and current role:
-
 ---
 
 <h1 align="center">Greetings <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> from Siza Adhikari</h1>
 
 <p align="center">
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/e7dn2ol.png" height="80px"/></a> 
+<a href="#"><img width="100%" height="auto" src="[https://i.imgur.com/e7dn2ol.png](https://storyset.com/illustration/data-processing/amico/animate?share=84063)" height="80px"/></a> 
 </p>
 
-<h3 align="center">A <em>dedicated data engineer</em> with a passion for <i>AI, LLMs, and creating innovative projects</i></h3>
+<h3 align="center">A dedicated data engineer with a passion for AI, LLMs, and creating innovative projects</h3>
 
 ## 🙋‍♂️ About Me
 
@@ -40,9 +38,8 @@ Certainly! Here's an updated version of your GitHub profile README, tailored to 
 ### Tools and Platforms
 
 <p align="center">
-    <a href="https://www.notion.so/" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/notion.png"/> </a>
+    <a href="https://www.notion.so/" target="_blank"> <img src="[https://img.icons8.com/ios-filled/50/000000/notion.png](https://www.notion.so/product)"/> </a>
     <a href="https://www.canva.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/canva.png"/> </a>
-    <a href="https://www.heroku.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/heroku.png"/> </a>
 </p>
 
 ## 📊 My GitHub Stats
@@ -53,11 +50,6 @@ Certainly! Here's an updated version of your GitHub profile README, tailored to 
 
 <br/>
 <b>Note:</b> The Top Languages list is a reflection of my public code repositories and not indicative of my skill level or experience.
-
-<br/>
-<br/>
-
-<a href="https://github.com/Si-za1/github-readme-activity-graph"><img alt="Siza's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Si-za1&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
