@@ -1,8 +1,9 @@
-<h1 align="center">Greetings from Siza Adhikari</h1>
+<h1 align="center">Greetings 🙇‍♂️ from Siza Adhikari</h1>
 
 <p align="center">
-<a href="#">Data Processing Illustration</a> 
+<a href="https://storyset.com/illustration/data-processing/amico#7AC868FF&hide=&hide=complete"></a> 
 </p>
+
 
 <h3 align="center">A dedicated data engineer with a passion for AI, LLMs, and creating innovative projects</h3>
 
@@ -36,8 +37,12 @@
 ## 📊 My GitHub Stats
 
 <br/>
-<a href="https://github.com/Si-za1/github-readme-stats">Siza's GitHub Stats</a>
-<a href="https://github.com/Si-za1/github-readme-stats">Siza's Top Languages</a>
+
+<br/>
+<a href="https://github.com/Si-za1/github-readme-stats"><img alt="Siza's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Si-za1&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/Si-za1/github-readme-stats"><img alt="Siza's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Si-za1&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
+<br/>
 
 <br/>
 **Note:** The Top Languages list is a reflection of my public code repositories and not indicative of my skill level or experience.
