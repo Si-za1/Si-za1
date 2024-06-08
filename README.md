@@ -3,7 +3,7 @@
 <h1 align="center">Greetings <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> from Siza Adhikari</h1>
 
 <p align="center">
-<a href="#"><img width="100%" height="auto" src="[https://i.imgur.com/e7dn2ol.png](https://storyset.com/illustration/data-processing/amico/animate?share=84063)" height="80px"/></a> 
+<a href="#"><img width="100%" height="auto" src="https://storyset.com/illustration/data-processing/amico/animate?share=84063)](https://storyset.com/illustration/data-processing/amico#68C888FF&hide=&hide=false)" height="80px"/></a> 
 </p>
 
 <h3 align="center">A dedicated data engineer with a passion for AI, LLMs, and creating innovative projects</h3>
@@ -20,7 +20,7 @@
 ### Programming Languages and Frameworks
 
 <p align="center">
-    <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
+    <a href="https://www.python.org/" target="_blank"> <img src="[https://img.icons8.com/color/48/000000/python.png](https://img.icons8.com/?size=100&id=pIJdjOoL6KfU&format=png&color=000000)"/> </a>
     <a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-fastapi-a-modern-web-framework-for-your-python-application-logo-color-tal-revivo.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
     <a href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>  
@@ -29,7 +29,7 @@
 ### AI and Machine Learning
 
 <p align="center">
-    <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tensorflow.png"/> </a>
+    <a href="https://www.tensorflow.org/" target="_blank"> <img src="[https://img.icons8.com/color/48/000000/tensorflow.png](https://www.flaticon.com/free-icon/ai_8131880?term=ai&page=1&position=9&origin=search&related_id=8131880)"/> </a>
     <a href="https://pytorch.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/pytorch.png"/> </a>
     <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/django.png"/> </a>
     <a href="https://nltk.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nltk.png"/> </a>
