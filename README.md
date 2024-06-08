@@ -1,66 +1,31 @@
-<h1 align="center">Greetings 🙇‍♂️ from Siza Adhikari</h1>
+### 🏅📚 Siza Adhikari - Data Engineer (AI)
 
-<p align="center">
-<a href="https://storyset.com/illustration/data-processing/amico#7AC868FF&hide=&hide=complete"></a> 
-</p>
+**Current Role:**  
+🔭 Data Engineer at **Leapfrog Technology** specializing in **AI and LLM** projects.
 
+**Skills & Expertise:**  
+💻 Languages: Python, HTML, CSS, Flutter, JavaScript  
+🛠️ Frameworks: FastAPI, Node.js, Django , Pandas, Numpy
+🧠 Machine Learning: TensorFlow, PyTorch, NLTK  
+📊 Data Tools: Docker, Kubernetes, Airflow 
+☁️ Cloud Platforms: AWS, Google Cloud Platform, Microsoft Azure  
+📝 Databases: SQL, NoSQL , Pinecone, Chroma DB, Open Search Database 
+🛢️ Version Control: Git  
+🔬 Development Environment: Google colab, Jupyter, VS Code  
 
-<h3 align="center">A dedicated data engineer with a passion for AI, LLMs, and creating innovative projects</h3>
+**Research Interest:**  
+🔍 Actively seeking opportunities in AI especially in the feild of LLMs for research to contribute to cutting-edge advancements.
 
-## 🙋‍♂️ About Me
+**Ongoing Learning:**  
+🌱 Continuously expanding my knowledge in Data Engineering, AI, and their real-world applications.
 
-- 🔭 I’m currently working as a Data Engineer, focusing on AI and LLM projects at **Leapfrog Technology**.
-- 🌱 I’m constantly learning and exploring **Data Engineering, AI, and their applications**.
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/Si-za1)**.
-- ⚡ Fun fact: **My favorite food is a circle made of triangles served in a square box!**
+**Projects & Portfolio:**  
+👨‍💻 Explore all my projects on [GitHub](https://github.com/Si-za1).
 
-## 🚀 Technologies I Work With
+**Fun Fact:**  
+⚡ My favorite food is a circle made of triangles served in a square box!
 
-### Programming Languages and Frameworks
+**Connect with Me:**  
+📫 [LinkedIn](https://www.linkedin.com/in/siza-adhikari-2a9574199/) | [Medium](https://starter-startler.medium.com/)
 
-- [Python](https://www.python.org/)
-- [FastAPI](https://fastapi.tiangolo.com/)
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
-
-### AI and Machine Learning
-
-- [NLP](https://www.ibm.com/cloud/learn/natural-language-processing)
-- [AI](https://en.wikipedia.org/wiki/Artificial_intelligence)
-- [ML](https://en.wikipedia.org/wiki/Machine_learning)
-
-### Tools and Platforms
-
-- [Notion](https://www.notion.so/)
-- [Canva](https://www.canva.com/)
-- [Docker](https://www.docker.com/)
-- [AWS](https://aws.amazon.com/)
-- [Google Cloud Platform](https://cloud.google.com/)
-- [Vector Database](https://www.pinecone.io/)
-- [SQL](https://en.wikipedia.org/wiki/SQL)
-- [NoSQL](https://en.wikipedia.org/wiki/NoSQL)
-- [Git](https://git-scm.com/)
-- [Jupyter](https://jupyter.org/)
-- [Google colab](https://colab.google/)
-- [VS Code](https://code.visualstudio.com/)
-
-## 📊 My GitHub Stats
-
-<br/>
-<a href="https://github.com/Si-za1/github-readme-stats"><img alt="Siza's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Si-za1&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/Si-za1/github-readme-stats"><img alt="Siza's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Si-za1&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-
-<br/>
-
-<br/>
-**Note:** The Top Languages list is a reflection of my public code repositories and not indicative of my skill level or experience.
-
-<br/>
-<br/>
-
-## 📫 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/siza-adhikari-2a9574199/)
-- [Medium](https://starter-startler.medium.com/)
-
-## ❤ Have a great day ahead!
+**Have a great day ahead!** ❤
