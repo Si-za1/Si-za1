@@ -2,7 +2,7 @@
           Your Ikigai lies at the intersection of what you are good at and what you love doing.
 
 **Current Role:**  
-🔭 Data Engineer at Leapfrog Technology specializing in AI and LLM projects.
+🔭 Data Engineer at Leapfrog Technology specializing in AI and Large Language Model projects.
 
 **Skills & Expertise:**  
 - 💻 Languages: Python, HTML, CSS, Flutter, JavaScript  
@@ -10,7 +10,7 @@
 - 🧠 Machine Learning: TensorFlow, PyTorch, NLTK  
 - 📊 Data Tools: Docker, Kubernetes, Airflow  
 - ☁️ Cloud Platforms: AWS, Google Cloud Platform, Microsoft Azure  
-- 📝 Databases: SQL, NoSQL, Pinecone, Chroma DB, Open Search Database  
+- 📝 Databases: SQL, NoSQL, Pinecone, Chroma DB, Open Search Database , Qdrant
 - 🛢️ Version Control: Git  
 - 🔬 Development Environment: Google Colab, Jupyter, VS Code  
 
