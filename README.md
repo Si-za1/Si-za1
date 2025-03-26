@@ -1,32 +1,24 @@
-# 📚 Siza Adhikari - Data Engineer (AI) 🤖 🧠 
-          Your Ikigai lies at the intersection of what you are good at and what you love doing.
+# Siza Adhikari  
+**Data Engineer (AI)** 🤖 ✨  
+*"Your Ikigai lies at what you’re good at and what you love doing."*  
 
-**Current Role:**  
-🔭 Data Engineer at Leapfrog Technology specializing in AI and Large Language Model projects.
+### 🔧 **Toolbox**  
+- **Code:** Python, SQL, NoSQL (Pinecone, ChromaDB, Qdrant), PSQL/pgAdmin  
+- **Cloud:** AWS, 
+- **Tools:** Git, FastAPI, Pandas, NumPy, VS Code, Colab  
 
-**Skills & Expertise:**  
-- 💻 Languages: Python, HTML, CSS, Flutter, JavaScript  
-- 🛠️ Frameworks: FastAPI, Node.js, Django, Pandas, Numpy  
-- 🧠 Machine Learning: TensorFlow, PyTorch, NLTK  
-- 📊 Data Tools: Docker, Kubernetes, Airflow  
-- ☁️ Cloud Platforms: AWS, Google Cloud Platform, Microsoft Azure  
-- 📝 Databases: SQL, NoSQL, Pinecone, Chroma DB, Open Search Database , Qdrant
-- 🛢️ Version Control: Git  
-- 🔬 Development Environment: Google Colab, Jupyter, VS Code  
+### 🌱 **Currently**  
+- Building AI/LLM systems @ Leapfrog Technology  
+- Learning: Data Engineering + GenAI real-world magic 
+- Researching: LLMs & cutting-edge AI  
 
-**Research Interest:**  
-🔍 Actively seeking opportunities in AI, especially in the field of LLMs for research to contribute to cutting-edge advancements.
+### 🎯 **Projects**  
+- [GitHub](https://github.com/Si-za1)
 
-**Ongoing Learning:**  
-🌱 Continuously expanding my knowledge in Data Engineering, AI, and their real-world applications.
-
-**Projects & Portfolio:**  
-👨‍💻 Explore all my projects on [GitHub](https://github.com/Si-za1).
-
-**Fun Fact:**  
-🍕 My favorite food is a circle made of triangles served in a square box!
+### 🍕 **Fun Fact**  
+Pizza is a *circle* made of *triangles*, served in a *square* box. Geometry is delicious.  
 
 **📫 Connect with Me:**  
 [LinkedIn](https://www.linkedin.com/in/siza-adhikari-2a9574199/) | [Medium](https://starter-startler.medium.com/)
 
-**Have a great day ahead! ❤️**
+**Be blessed with Miracles❤️**
