@@ -24,7 +24,7 @@ Where I can focus on operationalizing AI ethics rules—Fairness, Privacy, Trans
 - [GitHub](https://github.com/Si-za1)
 
 ### 🍕 **Fun Fact**  
-Pizza is a *circle* made of *triangles*, served in a *square* box. Geometry is delicious.  
+Pizza is a *circle* made of *triangles*, served in a *square* box.
 
 **📫 Connect with Me:**  
 [LinkedIn](https://www.linkedin.com/in/siza-adhikari-2a9574199/) | [Medium](https://starter-startler.medium.com/) | [X](https://x.com/Starterstartler)
